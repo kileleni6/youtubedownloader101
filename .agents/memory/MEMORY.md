@@ -1,0 +1,1 @@
+- [YouTube extractor client](youtube-extractor-client.md) — In hosted environments, yt-dlp may need the Android player client to avoid YouTube bot checks.
